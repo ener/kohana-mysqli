@@ -1,4 +1,5 @@
 <?php defined('SYSPATH') OR die('No direct script access.');
+
 /**
  * MySQLi database connection. Based on standard MySQL driver.
  *
